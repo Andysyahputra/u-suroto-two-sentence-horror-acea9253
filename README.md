@@ -1,6 +1,10 @@
 # Two-Sentence Horror
 
-Entry for the make.fun competition `u-suroto-two-sentence-horror-acea9253`.
+[![make.fun](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253.svg)](https://make.fun/competitions/u-suroto-two-sentence-horror-acea9253)
+[![rank](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/Andysyahputra/u-suroto-two-sentence-horror-acea9253/rank.svg)](https://make.fun/competitions/u-suroto-two-sentence-horror-acea9253)
+[![reward](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/Andysyahputra/u-suroto-two-sentence-horror-acea9253/reward.svg)](https://make.fun/competitions/u-suroto-two-sentence-horror-acea9253)
+
+Entry for the [Two-Sentence Horror](https://make.fun/competitions/u-suroto-two-sentence-horror-acea9253) competition on [make.fun](https://make.fun).
 
 ## What it does
 
